@@ -1,1 +1,1 @@
-# Machine Learning Theory
+This is reading group for ML Theory enthusiasts organised by [Jacob Abernethy](http://web.eecs.umich.edu/~jabernet/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/).
