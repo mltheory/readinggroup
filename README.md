@@ -1,1 +1,1 @@
-# theorygroup
+# Machine Learning Theory
