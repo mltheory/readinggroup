@@ -3,7 +3,7 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 
 ### Meetings Schedule and presenters
 
-#### spring 2018
+#### Spring 2018
 
 | Date        | Paper         | Presenter |   Location|
 | :-------------: |:-------------:| |:-------------: | |:-------------: |
