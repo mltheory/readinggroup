@@ -14,6 +14,6 @@ Previous semesters: [Fall 2017](fall17)
 
 
 
-### [Restaurants to order food from](food)
+### Restaurants to order food from
 - [Cafe Agora](https://www.yelp.com/biz/cafe-agora-midtown-atlanta)
 
