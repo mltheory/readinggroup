@@ -6,7 +6,7 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 #### Spring 2018
 
 | Date        | Paper         | Presenter |   Location|
-| :-------------: |:-------------:| |:-------------: | |:-------------: |
+| :-------------: |:-------------: |:-------------: |:-------------: |
 | 10 Jan 2018    | General Discussion |  | Klaus 3100 |
 
 
