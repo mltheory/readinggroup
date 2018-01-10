@@ -18,3 +18,6 @@
 | 28 Nov 2017 |  [Integration Methods and Accelerated Optimization Algorithms](https://arxiv.org/pdf/1702.06751.pdf) | [Ben Bray](http://benrbray.com/) |
 | 05 Dec 2017 |  General Discussions |  |
 
+
+[Home](README)
+
