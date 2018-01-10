@@ -7,8 +7,8 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 
 | Date        | Paper         | Presenter |   Location|
 | :-------------: |:-------------:| |:-------------: | |:-------------: |
-| 10 Jan 2017     | General Discussion |  | Klaus 3100 |
-| 17 Jan 2017      | [Regularised Nonlinear Acceleration](https://arxiv.org/pdf/1606.04133.pdf)      |   [Jun Kun](https://www.cc.gatech.edu/~jwang774/) | Klaus 3100 |
+| 10 Jan 2018    | General Discussion |  | Klaus 3100 |
+
 
 Previous semesters: [Fall 2017](fall17)
 
@@ -16,4 +16,7 @@ Previous semesters: [Fall 2017](fall17)
 
 ### Restaurants to order food from
 - [Cafe Agora](https://www.yelp.com/biz/cafe-agora-midtown-atlanta)
-
+- [Budi's Sushi](https://www.budissushi.com/)
+- [Vespucci's](http://www.vespuccispizza.com/)
+- [Tin Lizzy's](http://www.tinlizzyscantina.com/)
+- [Which Which](https://www.whichwich.com/)
