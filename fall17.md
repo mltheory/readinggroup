@@ -6,8 +6,7 @@
 | Date        | Paper         | Presenter |
 | :-------------: |:-------------:| :-------------: |
 | 29 Aug 2017     | General Discussion |  |
-| 12 Sep 2017 | [Linear Convergence of a Frank-Wolfe Type Algorithm over
-Trace-Norm Balls](https://arxiv.org/pdf/1708.02105.pdf) | [Jun Kun](https://www.cc.gatech.edu/~jwang774/) |
+| 12 Sep 2017 | [Linear Convergence of a Frank-Wolfe Type Algorithm over trace-Norm Balls](https://arxiv.org/pdf/1708.02105.pdf) | [Jun Kun](https://www.cc.gatech.edu/~jwang774/) |
 | 19 Sep 2017 | [Nesterov's Accelerated Gradient Descent](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) | [Kevin Lai](https://www.cc.gatech.edu/~klai9/) |
 | 26 Sep 2017 |  [The zen of gradient descent](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html) | [Ben Bray](http://benrbray.com/) |
 | 03 Oct 2017      | [Mirror Descent](https://blogs.princeton.edu/imabandit/2013/04/16/orf523-mirror-descent-part-iii/)| [Bhuvesh Kumar](http://bhuveshkumar.com/) |
