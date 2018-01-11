@@ -1,4 +1,4 @@
-#Topics for discussions
+# Topics for discussion
 
 ## Topics from last semester
 
