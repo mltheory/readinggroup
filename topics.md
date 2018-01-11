@@ -2,8 +2,8 @@
 
 ## Topics from last semester
 
--- Alternating min off EM methods
--- Search var-reduced gradient
+- Alternating min off EM methods
+- Search var-reduced gradient
 -- Matrix completion
 -- Hitting time analysis Langevin dynamics
 -- Differential privacy
