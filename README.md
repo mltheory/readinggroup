@@ -8,9 +8,11 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 | Date        | Paper         | Presenter |   Location|
 | :-------------: |:-------------: |:-------------: |:-------------: |
 | 10 Jan 2018    | General Discussion |  | Klaus 3100 |
-| 17 Jan 2018 | [Fast Convergence of Regularized Learning in Games](https://arxiv.org/pdf/1507.00407.pdf) | Naveen Kodali | |
-
-
+| 17 Jan 2018 | [Fast Convergence of Regularized Learning in Games](https://arxiv.org/pdf/1507.00407) | Naveen Kodali | |
+| 24 Jan 2018 | [Learning Linear Dynamical Systems via Spectral Filtering](https://arxiv.org/abs/1711.00946) | Ben Bray | |
+| 14 Feb 2018 | [On the Complexity of Learning Neural Networks](https://arxiv.org/pdf/1707.04615.pdf) | [Santosh Vempala](https://www.cc.gatech.edu/~vempala/) | |
+| 21 Feb 2018 | [The Numerics of GANs](https://arxiv.org/abs/1705.10461) | Amit | |
+| 28 Feb 2018 |  | [Samira Samadi](https://sites.google.com/site/ssamadi/) | |
 Previous semesters: [Fall 2017](fall17)
 
 
