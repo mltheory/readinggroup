@@ -13,6 +13,8 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 | 14 Feb 2018 | [On the Complexity of Learning Neural Networks](https://arxiv.org/pdf/1707.04615.pdf) | [Santosh Vempala](https://www.cc.gatech.edu/~vempala/) | |
 | 21 Feb 2018 | [The Numerics of GANs](https://arxiv.org/abs/1705.10461) | Amit | |
 | 28 Feb 2018 |  | [Samira Samadi](https://sites.google.com/site/ssamadi/) | |
+
+
 Previous semesters: [Fall 2017](fall17)
 
 
