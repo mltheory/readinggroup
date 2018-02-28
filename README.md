@@ -12,8 +12,7 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 | 24 Jan 2018 | [Learning Linear Dynamical Systems via Spectral Filtering](https://arxiv.org/abs/1711.00946) | [Ben Bray](http://benrbray.com/) | Klaus 2100|
 | 14 Feb 2018 | [On the Complexity of Learning Neural Networks](https://arxiv.org/pdf/1707.04615.pdf) | [Santosh Vempala](https://www.cc.gatech.edu/~vempala/) | Klaus 2100|
 | 21 Feb 2018 | [The Numerics of GANs](https://arxiv.org/abs/1705.10461) | Amit Raj| Klaus 2100|
-| 28 Feb 2018 |[Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks
-](https://arxiv.org/abs/1703.02930)  | [Samira Samadi](https://sites.google.com/site/ssamadi/) | Klaus 2100|
+| 28 Feb 2018 |[Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks](https://arxiv.org/abs/1703.02930)|[Samira Samadi](https://sites.google.com/site/ssamadi/) | Klaus 2100|
 
 
 Previous semesters: [Fall 2017](fall17)
