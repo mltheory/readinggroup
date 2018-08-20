@@ -12,7 +12,7 @@
 | 21 Feb 2018 | [The Numerics of GANs](https://arxiv.org/abs/1705.10461) | Amit Raj| Klaus 2100|
 | 28 Feb 2018 |[Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks](https://arxiv.org/abs/1703.02930)|[Samira Samadi](https://sites.google.com/site/ssamadi/) | Klaus 2100|
 | 14 Mar 2018 |[Alternating Minimization](http://www.prateekjain.org/publications/all_papers/JainK17_FTML.pdf)|[Bhuvesh Kumar](http://bhuveshkumar.com) | Klaus 2100|
-| 21 Mar 2018 ||[Andre Wibisono](https://people.eecs.berkeley.edu/~wibisono/) | Klaus 2100|
+| 21 Mar 2018 |[Sampling as minimization in the space of measures: The Langevin dynamics as a composite optimization problem](https://arxiv.org/abs/1802.08089)|[Andre Wibisono](https://people.eecs.berkeley.edu/~wibisono/) | Klaus 2100|
 
 
 
