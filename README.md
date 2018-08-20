@@ -11,7 +11,7 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 
 
 
-Previous semesters: [Spring 2018](spring18)[Fall 2017](fall17)
+Previous semesters: [Spring 2018](spring18), [Fall 2017](fall17)
 
 
 
