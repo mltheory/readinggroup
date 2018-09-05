@@ -3,11 +3,13 @@ This is the website for the ML Theory reading group organised by [Jacob Aberneth
 
 ### Meetings Schedule and presenters
 
-#### Spring 2018
+#### Fall 2018
 
 | Date        | Paper         | Presenter |   Location|
 | :-------------: |:-------------: |:-------------: |:-------------: |
-| 27 Aug 2018    | General Discussion |  | Klaus 2100 |
+| 27 Aug 2018    | General Discussion <br /> [Faster Rates for Convex-Concave Games](https://arxiv.org/abs/1805.06792) | [Jake Abernethy](http://web.eecs.umich.edu/~jabernet/) | Klaus 2100 |
+| 05 Sep 2018    | [Online Saddle Point Problem with Applications to Constrained Online Convex Optimization](https://arxiv.org/abs/1806.08301) | [Adrian Rivera](https://www.isye.gatech.edu/users/adrian3) | Klaus 1212 |
+| 10 Sep 2018    | [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/abs/1611.01838) | [Ben Bray](http://benrbray.com) | Klaus 2100 |
 
 
 
