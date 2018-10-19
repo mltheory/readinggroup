@@ -1,4 +1,4 @@
-This is the website for the ML Theory reading group organised by [Jacob Abernethy](http://web.eecs.umich.edu/~jabernet/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every Monday at 12:00 noon in the Klaus Advanced Computing Building.
+This is the website for the ML Theory reading group organized by [Jacob Abernethy](http://web.eecs.umich.edu/~jabernet/) in the [School of Computer Science](https://www.scs.gatech.edu/) at the [Georgia Institute of Technology](http://www.gatech.edu/). We meet every Monday at 12:15 - 2 pm in the Klaus Advanced Computing Building.
 
 
 ### Meetings Schedule and presenters
