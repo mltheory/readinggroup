@@ -15,9 +15,11 @@ This is the website for the ML Theory reading group organized by [Jacob Aberneth
 | 01 Oct 2018    | PyTorch tutorial | [Jake Abernethy](http://web.eecs.umich.edu/~jabernet/) | Klaus 2100 |
 | 22 Oct 2018    | [Hamiltonian Descent Methods](https://arxiv.org/abs/1809.05042) | [Andre Wibisono](https://people.eecs.berkeley.edu/~wibisono) | Klaus 2100 |
 | 29 Oct 2018    | [On the Convergence of ADAM and Beyond](https://openreview.net/pdf?id=ryQu7f-RZ) | [Bhuvesh Kumar](http://bhuveshkumar.com) | Klaus 2100 |
-| 05 Nov 2018    | []() | [Uthaipon (Tao) Tantipongpipat](https://www.cc.gatech.edu/~uthaipon3/) | Klaus 2100 |
-| 12 Nov 2018    | []() | []() | Klaus 2100 |
-| 19 Nov 2018    | []() | []() | Klaus 2100 |
+| 05 Nov 2018    | [Proportional Volume Sampling and Approximation Algorithms for A-Optimal Design](https://arxiv.org/abs/1802.08318) | [Uthaipon (Tao) Tantipongpipat](https://www.cc.gatech.edu/~uthaipon3/) | Klaus 2100 |
+| 12 Nov 2018    | [Parallel and Distributed Block-Coordinate Frank-Wolfe Algorithms](https://arxiv.org/pdf/1409.6086.pdf) | [Seyma Gurkan](https://www.isye.gatech.edu/users/seyma-gurkan) | Klaus 2100 |
+| 19 Nov 2018    | []() | [Digvijay Boob](https://www.isye.gatech.edu/users/digvijay-pravin-boob) | Klaus 2100 |
+| 26 Nov 2018    | []() | []() | Klaus 2100 |
+| 03 Dec 2018    | []() | []() | Klaus 2100 |
 
 
 
